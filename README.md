@@ -30,88 +30,54 @@ I'm an **Android Developer** focused on building production-ready Android applic
 
 ## 🛠️ Tech Stack
 
-<table>
-  <tr>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,java,android,jetpackcompose,firebase,sqlite,git,github,androidstudio,postman" height="45"/>
+</p>
+
+<table align="center">
+  <tr bgcolor="#161b22">
     <th>Category</th>
     <th>Technologies</th>
   </tr>
 
-  <tr bgcolor="#161b22">
-    <td><b>Languages</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=kotlin,java" height="35"/>
-      <br>
-      SQL
-    </td>
-  </tr>
-
   <tr bgcolor="#0d1117">
-    <td><b>Android Development</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=android" height="35"/>
-      <br>
-      Android SDK · XML · Material Design 3 · Navigation Component · Jetpack Compose
-    </td>
+    <td align="center"><b>Languages</b></td>
+    <td>Kotlin · Java · SQL</td>
   </tr>
 
   <tr bgcolor="#161b22">
-    <td><b>Architecture</b></td>
-    <td>
-      MVVM · Clean Architecture · Repository Pattern · Use Cases · Offline-first Architecture
-    </td>
+    <td align="center"><b>Android</b></td>
+    <td>Jetpack Compose · XML · Material Design 3 · Android SDK · Navigation Component</td>
   </tr>
 
   <tr bgcolor="#0d1117">
-    <td><b>Asynchronous Programming</b></td>
-    <td>
-      Coroutines · Flow · StateFlow · SharedFlow · LiveData
-    </td>
+    <td align="center"><b>Architecture</b></td>
+    <td>MVVM · Clean Architecture · Repository Pattern · Use Cases · Offline-first</td>
   </tr>
 
   <tr bgcolor="#161b22">
-    <td><b>Database & Storage</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=sqlite,firebase" height="35"/>
-      <br>
-      Room · SQLite · Firebase
-    </td>
+    <td align="center"><b>State & Async</b></td>
+    <td>Coroutines · Flow · StateFlow · SharedFlow · LiveData</td>
   </tr>
 
   <tr bgcolor="#0d1117">
-    <td><b>Networking</b></td>
-    <td>
-      Retrofit · OkHttp · REST APIs · Gson
-    </td>
+    <td align="center"><b>Data & Storage</b></td>
+    <td>Room · SQLite · Firebase</td>
   </tr>
 
   <tr bgcolor="#161b22">
-    <td><b>Dependency Injection</b></td>
-    <td>
-      Hilt · Dagger 2
-    </td>
+    <td align="center"><b>Networking</b></td>
+    <td>Retrofit · OkHttp · REST APIs · Gson</td>
   </tr>
 
   <tr bgcolor="#0d1117">
-    <td><b>Performance</b></td>
-    <td>
-      LeakCanary · Android Profiler · Firebase Crashlytics
-    </td>
+    <td align="center"><b>Dependency Injection</b></td>
+    <td>Hilt · Dagger 2</td>
   </tr>
 
   <tr bgcolor="#161b22">
-    <td><b>Testing</b></td>
-    <td>
-      JUnit · Mockito · Unit Testing
-    </td>
-  </tr>
-
-  <tr bgcolor="#0d1117">
-    <td><b>Tools</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=androidstudio,git,github,gradle,postman" height="35"/>
-      <br>
-      Bitbucket · Play Console · Google Analytics · Jira
-    </td>
+    <td align="center"><b>Tools</b></td>
+    <td>Android Studio · Git · GitHub · Bitbucket · Postman · Jira · Play Console</td>
   </tr>
 </table>
 
