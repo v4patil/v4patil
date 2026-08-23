@@ -103,24 +103,83 @@ Working on a business accounting and invoicing platform serving thousands of SME
 
 ---
 
-## 🚀 Personal Project
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" align="center">
 
 ### 🏫 School Management App
 
-A modern Android application built using modern Android development practices.
+<a href="(https://github.com/v4patil/SchoolManagement)">
+<img src="https://img.shields.io/badge/CODE-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="https://github.com/v4patil/SchoolManagement">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0A9BD8?style=for-the-badge">
+</a>
 
-**Architecture & Technologies**
+**Android · Kotlin · Jetpack Compose · MVVM**
 
-- Single Activity Architecture
-- MVVM
-- Repository Pattern
-- Use Cases
-- Jetpack Compose
-- Material Design 3
-- ViewModel
-- StateFlow
-- Dagger 2
-- Reusable Compose components
+Modern school management application built with Jetpack Compose, MVVM, Clean Architecture principles, and reactive state management.
+
+</td>
+
+<td width="50%" align="center">
+
+### 📰 News App
+
+<a href="https://github.com/v4patil/-NewsApp-MVVM-Architecture">
+<img src="https://img.shields.io/badge/CODE-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="https://github.com/v4patil/-NewsApp-MVVM-Architecture">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0A9BD8?style=for-the-badge">
+</a>
+
+**Android · Kotlin · MVVM · Clean Architecture**
+
+News application integrating NewsAPI with Retrofit, Kotlin Coroutines, StateFlow, caching, and modern Android architecture.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+<!--
+### 💰 Expenzo
+
+<a href="YOUR_REPOSITORY_URL">
+<img src="https://img.shields.io/badge/CODE-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="YOUR_REPOSITORY_URL">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0A9BD8?style=for-the-badge">
+</a>
+
+**Flutter · Clean Architecture · Offline-first**
+
+Personal finance management application with local database, state management, and offline-first architecture.
+
+</td>
+
+<td width="50%" align="center">
+
+### 📱 CryptoCoin
+
+<a href="YOUR_REPOSITORY_URL">
+<img src="https://img.shields.io/badge/CODE-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="YOUR_REPOSITORY_URL">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0A9BD8?style=for-the-badge">
+</a>
+
+**Android · Kotlin · XML · REST APIs**
+
+Android cryptocurrency application using Retrofit, Coroutines, RecyclerView, Glide, and REST APIs.
+
+</td>
+</tr>
+</table>
+
+-->
 
 The project focuses on building a scalable and testable Android architecture with reactive UI development.
 
