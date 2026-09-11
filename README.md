@@ -144,42 +144,17 @@ News application integrating NewsAPI with Retrofit, Kotlin Coroutines, StateFlow
 
 <tr>
 <td width="50%" align="center">
-<!--
-### 💰 Expenzo
 
-<a href="YOUR_REPOSITORY_URL">
-<img src="https://img.shields.io/badge/CODE-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-<a href="YOUR_REPOSITORY_URL">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0A9BD8?style=for-the-badge">
-</a>
+💰 Expenzo — Expense Manager
 
-**Flutter · Clean Architecture · Offline-first**
+<p> A modern Android expense manager designed to help users <strong>track expenses, manage finances, and monitor spending</strong> through a clean and intuitive interface. </p>
 
-Personal finance management application with local database, state management, and offline-first architecture.
+<a href="https://github.com/v4patil/Expenzo-Android-Showcase"> <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0A9BD8?style=for-the-badge"> </a>
 
 </td>
 
-<td width="50%" align="center">
-
-### 📱 CryptoCoin
-
-<a href="YOUR_REPOSITORY_URL">
-<img src="https://img.shields.io/badge/CODE-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-<a href="YOUR_REPOSITORY_URL">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0A9BD8?style=for-the-badge">
-</a>
-
-**Android · Kotlin · XML · REST APIs**
-
-Android cryptocurrency application using Retrofit, Coroutines, RecyclerView, Glide, and REST APIs.
-
-</td>
 </tr>
 </table>
-
--->
 
 The project focuses on building a scalable and testable Android architecture with reactive UI development.
 
