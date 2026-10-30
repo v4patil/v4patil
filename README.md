@@ -145,11 +145,27 @@ News application integrating NewsAPI with Retrofit, Kotlin Coroutines, StateFlow
 <tr>
 <td width="50%" align="center">
 
-💰 Expenzo — Expense Manager
+### 💰 Expenzo — Expense Manager
 
 <p> A modern Android expense manager designed to help users <strong>track expenses, manage finances, and monitor spending</strong> through a clean and intuitive interface. </p>
 
 <a href="https://github.com/v4patil/Expenzo-Android-Showcase"> <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0A9BD8?style=for-the-badge"> </a>
+
+</td>
+
+<td width="50%" align="center">
+
+### 🧪 Android Concepts Lab
+
+<p> A hands-on Android project exploring Kotlin Coroutines, Flow, and Jetpack Compose with practical examples and detailed logs covering dispatchers, threading, Flow operators, recomposition, and state management. </p>
+
+<!-- <a href="https://github.com/v4patil/MasterProject"> <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0A9BD8?style=for-the-badge"> </a> -->
+<a href="https://github.com/v4patil/MasterProject">
+<img src="https://img.shields.io/badge/CODE-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="https://github.com/v4patil/MasterProject">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0A9BD8?style=for-the-badge">
+</a>
 
 </td>
 
